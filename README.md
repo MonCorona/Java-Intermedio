@@ -54,10 +54,4 @@ Este repositorio está en constante desarrollo a medida que avanzo en el curso y
 Continuará ampliándose con nuevas prácticas, ideas y proyectos.
 
 
----
 
-## 🤝 Contribuciones
-
-Este repositorio es de uso **personal y académico**, pero si tienes alguna sugerencia o mejora, ¡será muy bienvenida! 🚀
-
----
